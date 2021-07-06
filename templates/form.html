@@ -1,0 +1,7 @@
+<form action="{{ url_for('main')}}" method="post" id="form">
+    <label>Input city IDs separated by ', ':</label>
+    <!--<input type="textarea" id="ids" name="ids" placeholder="firstname" rows="4" cols="50">-->
+    <br><textarea rows="4" cols="50" name="ids" form="form" placeholder="01234, ..., 56789" ></textarea>
+
+    <br><button type="submit">Submit</button>
+</form>
