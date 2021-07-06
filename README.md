@@ -12,6 +12,7 @@
 * Then: ```sudo docker run --name weather -p 5000:5000 weather```
 
 or
+
 ###Method 2:
 * In your Terminal
 * Go to weather_app/
