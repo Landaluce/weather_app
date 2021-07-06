@@ -18,3 +18,5 @@ or
 * Go to weather_app/
 * run this command: ```pip install -r requirements.tx```
 * then: ``` python3 main.py```
+
+For testing, use functins in test/test_functions.py
